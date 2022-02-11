@@ -1,4 +1,4 @@
-#BY ROHAN SHIRKHEDKAR
+#BY ROHAN S
 import string
 import random
 from random import randrange
